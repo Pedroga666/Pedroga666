@@ -10,5 +10,5 @@ Sou o Pedro
   pedrosantos112007@gmail.com
   
 
-
 ![](https://media1.tenor.com/m/jEzJXDnMHYoAAAAd/mindblown-idea.gif)
+

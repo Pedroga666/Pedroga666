@@ -1,9 +1,9 @@
 Boas vindas ao meu perfil 👨‍🎓
 
-Sou o Pedro
+### Sou o Pedro
 
-- Estou estudando JavaScript na [ alura](https://www.alura.com.br/)
-- Vou me organizar por aqui
+- Estou estudando JavaScript na [ alura](https://www.alura.com.br)
+- Vou me **organizar** por aqui
 
 - Se quiser me ajudar entre em contato 📧
 
